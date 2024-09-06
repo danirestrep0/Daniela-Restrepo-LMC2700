@@ -1,0 +1,47 @@
+body {
+    background-color:deeppink;
+}
+h1 {
+    text-align:center;
+    color:hotpink;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:250%;
+}
+h2 {
+    text-align:center;
+    color:navy;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:225%;
+    text-decoration: underline;
+}
+h3 {
+    text-align:center;
+    color:lawngreen;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:225%;
+    text-decoration: underline;
+}
+h4 {
+    text-align:center;
+    color:darkorange;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:225%;
+    text-decoration: underline;
+}
+p {
+    color:black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align:center;
+}
+p span {
+    background-color: antiquewhite;
+}
+ul {
+    color:black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align:left;
+    padding-left:3in;
+}
+li span {
+    background-color: antiquewhite;
+}
